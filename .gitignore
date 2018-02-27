@@ -34,5 +34,5 @@ sysinfo.txt
 *.unitypackage
 
 # blender-related
-*.blender?*
+*.blend?*
 blender/*.fbx
